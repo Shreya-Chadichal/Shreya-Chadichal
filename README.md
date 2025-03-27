@@ -1,5 +1,4 @@
-## My LeetCode Stats
-## Hi there 👋
+
 
 <!--
 **Shreya-Chadichal/Shreya-Chadichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
