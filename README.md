@@ -1,5 +1,4 @@
 ## My LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shreya_Chadichal2429)](https://leetcode.com/Shreya_Chadichal2429)
 ## Hi there 👋
 
 <!--
